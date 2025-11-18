@@ -1,22 +1,802 @@
 {
   "stories": [
     {
-      "id": "caesar_rubicon",
-      "title": "The Decision That Ended an Empire",
-      "era": "Ancient Rome",
-      "category": "Military History",
+      "id": "cleopatra_kingdom",
+      "title": {
+        "en": "Cleopatra's Last Stand",
+        "ar": "الوقفة الأخيرة لكليوباترا",
+        "fr": "Le Dernier Combat de Cléopâtre"
+      },
+      "era": {
+        "en": "Ancient Egypt",
+        "ar": "مصر القديمة",
+        "fr": "Égypte Ancienne"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
       "image": null,
       "readingMinutes": 2,
-      "body": "On January 10, 49 BC, Julius Caesar stood at the banks...",
+      "body": {
+        "en": "In 30 BCE, Cleopatra VII faced the Roman armies of Octavian. As the last active pharaoh of Ptolemaic Egypt, she had ruled with intelligence and political savvy. Her alliances with Julius Caesar and Mark Antony had strengthened Egypt's position, but now Rome threatened to absorb her kingdom. Rather than be paraded as a captive in Rome, Cleopatra chose death by asp bite. Her passing marked the end of Egyptian pharaonic rule and the beginning of Roman domination. Her legacy continues to fascinate historians and storytellers alike.",
+        "ar": "في عام 30 قبل الميلاد، واجهت كليوباترا السابعة جيوش أوكتافيان الرومانية. كآخر فرعون نشط في البطالمة، حكمت بذكاء وبراعة سياسية. عززت تحالفاتها مع يوليوس قيصر ومارك أنطوني موقع مصر، لكن روما هددت بابتلاع مملكتها. بدلاً من أن تُعرض كأسيرة في روما، اختارت كليوباترا الموت بلدغة أفعى. markedت وفاتها نهاية الحكم الفرعوني المصري وبداية السيطرة الرومانية. لا يزال إرثها يثير إعجاب المؤرخين ورواة القصص.",
+        "fr": "En 30 avant J.-C., Cléopâtre VII fit face aux armées romaines d'Octave. En tant que dernière pharaon active des Ptolémées, elle avait gouverné avec intelligence et sagacité politique. Ses alliances avec Jules César et Marc Antoine avaient renforcé la position de l'Égypte, mais Rome menaçait désormais d'absorber son royaume. Plutôt que d'être paradée comme captive à Rome, Cléopâtre choisit la mort par morsure d'aspic. Son décès marqua la fin du règne pharaonique égyptien et le début de la domination romaine. Son héritage continue de fasciner historiens et conteurs."
+      },
       "quiz": [
         {
-          "question": "What was the significance of crossing the Rubicon River?",
-          "options": [
-            "It was a sacred religious boundary",
-            "It was forbidden for generals to cross with an army",
-            "It marked the border with Gaul"
-          ],
+          "question": {
+            "en": "How did Cleopatra die?",
+            "ar": "كيف ماتت كليوباترا؟",
+            "fr": "Comment Cléopâtre est-elle morte ?"
+          },
+          "options": {
+            "en": ["In battle", "Poisoned by Octavian", "Asp bite", "Old age"],
+            "ar": ["في المعركة", "تسممت من قبل أوكتافيان", "لدغة أفعى", "شيخوخة"],
+            "fr": ["Au combat", "Empoisonnée par Octave", "Morsure d'aspic", "Vieillesse"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "caesar_assassination",
+      "title": {
+        "en": "The Ides of March",
+        "ar": "آذار الجهنمية",
+        "fr": "Les Ides de Mars"
+      },
+      "era": {
+        "en": "Ancient Rome",
+        "ar": "روما القديمة",
+        "fr": "Rome Antique"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "On March 15, 44 BCE, Julius Caesar was assassinated by a group of Roman senators led by Brutus and Cassius. The conspirators feared Caesar's growing power and his appointment as dictator for life threatened the Roman Republic. As Caesar entered the Senate, he was surrounded and stabbed 23 times. His death plunged Rome into civil war and ended the Republic, leading to the rise of the Roman Empire under his adopted heir Octavian. The phrase 'Beware the Ides of March' remains a warning of impending danger.",
+        "ar": "في 15 مارس 44 قبل الميلاد، اغتيل يوليوس قيصر على يد مجموعة من أعضاء مجلس الشيوخ الروماني بقيادة بروتوس وكاسيوس. خشي المتآمرون من تزايد قوة قيصر وتعيينه ديكتاتوراً مدى الحياة مما هدد الجمهورية الرومانية. عندما دخل قيصر مجلس الشيوخ، حاصره المتآمرون وطعنوه 23 مرة. أدى موته إلى إ plungاجة روما في حرب أهلية وإنهاء الجمهورية، مما أدى إلى صعود الإمبراطورية الرومانية تحت حكم وريثه بالتبني أوكتافيان. لا تزال عبارة 'احذر آذار' تحذيراً من خطر imminent.",
+        "fr": "Le 15 mars 44 avant J.-C., Jules César fut assassiné par un groupe de sénateurs romains dirigé par Brutus et Cassius. Les conspirateurs craignaient le pouvoir croissant de César et sa nomination comme dictateur à vie menaçait la République romaine. Alors que César entrait au Sénat, il fut entouré et poignardé 23 fois. Sa mort plongea Rome dans la guerre civile et mit fin à la République, conduisant à la montée de l'Empire romain sous son héritier adoptif Octave. La phrase 'Méfiez-vous des Ides de Mars' reste un avertissement de danger imminent."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Who led the conspiracy against Caesar?",
+            "ar": "من قاد المؤامرة ضد قيصر؟",
+            "fr": "Qui a dirigé la conspiration contre César ?"
+          },
+          "options": {
+            "en": ["Octavian and Mark Antony", "Cicero and Pompey", "Brutus and Cassius", "Cleopatra and Ptolemy"],
+            "ar": ["أوكتافيان ومارك أنطوني", "شيشرون وبومبي", "بروتوس وكاسيوس", "كليوباترا وبطليموس"],
+            "fr": ["Octave et Marc Antoine", "Cicéron et Pompée", "Brutus et Cassius", "Cléopâtre et Ptolémée"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "house_of_wisdom",
+      "title": {
+        "en": "The House of Wisdom",
+        "ar": "بيت الحكمة",
+        "fr": "La Maison de la Sagesse"
+      },
+      "era": {
+        "en": "Islamic Golden Age",
+        "ar": "العصر الذهبي الإسلامي",
+        "fr": "Âge d'Or Islamique"
+      },
+      "category": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "During the Islamic Golden Age, the House of Wisdom in Baghdad became the world's leading center of learning. Established by Caliph Harun al-Rashid and expanded by his son al-Ma'mun, it attracted scholars from across the Muslim world. Here, Greek, Persian, and Indian knowledge was translated into Arabic and expanded upon. Mathematician al-Khwarizmi developed algebra, while astronomers made precise celestial observations. The preservation and advancement of knowledge at the House of Wisdom laid foundations for the European Renaissance and modern science.",
+        "ar": "خلال العصر الذهبي الإسلامي، أصبح بيت الحكمة في بغداد المركز الرائد في العالم للتعلم. أسسه الخليفة هارون الرشيد ووسعه ابنه المأمون، وجذب علماء من جميع أنحاء العالم الإسلامي. هنا، تمت ترجمة المعرفة اليونانية والفارسية والهندية إلى العربية والتوسع فيها. طور عالم الرياضيات الخوارزمي الجبر، بينما قام الفلكيون بملاحظات سماوية دقيقة. حفاظ بيت الحكمة على المعرفة وتطويرها وضع أسس النهضة الأوروبية والعلوم الحديثة.",
+        "fr": "Pendant l'Âge d'Or Islamique, la Maison de la Sagesse à Bagdad devint le principal centre d'apprentissage du monde. Établie par le calife Harun al-Rashid et agrandie par son fils al-Ma'mun, elle attira des érudits de tout le monde musulman. Ici, les connaissances grecques, perses et indiennes furent traduites en arabe et développées. Le mathématicien al-Khwarizmi développa l'algèbre, tandis que les astronomes firent des observations célestes précises. La préservation et l'avancement des connaissances à la Maison de la Sagesse jetèrent les bases de la Renaissance européenne et de la science moderne."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What mathematical field did al-Khwarizmi develop?",
+            "ar": "ما المجال الرياضي الذي طوره الخوارزمي؟",
+            "fr": "Quel domaine mathématique al-Khwarizmi a-t-il développé ?"
+          },
+          "options": {
+            "en": ["Geometry", "Calculus", "Algebra", "Trigonometry"],
+            "ar": ["الهندسة", "حساب التفاضل والتكامل", "الجبر", "علم المثلثات"],
+            "fr": ["Géométrie", "Calcul", "Algèbre", "Trigonométrie"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "marco_polo_journey",
+      "title": {
+        "en": "Marco Polo's Journey",
+        "ar": "رحلة ماركو بولو",
+        "fr": "Le Voyage de Marco Polo"
+      },
+      "era": {
+        "en": "Middle Ages",
+        "ar": "العصور الوسطى",
+        "fr": "Moyen Âge"
+      },
+      "category": {
+        "en": "Explorations",
+        "ar": "استكشافات",
+        "fr": "Explorations"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 1271, 17-year-old Marco Polo embarked from Venice with his father and uncle on an epic 24-year journey to Asia. They traveled the Silk Road, reaching the court of Kublai Khan in China. Marco served the Mongol emperor for 17 years, traveling throughout Asia as an official. His book 'The Travels of Marco Polo' introduced Europeans to Asian cultures, technologies, and wealth. Though some contemporaries doubted his stories, his accounts inspired later explorers including Christopher Columbus. His journey opened cultural exchange between East and West.",
+        "ar": "في عام 1271، انطلق ماركو بولو البالغ من العمر 17 عامًا من البندقية مع والده وعمه في رحلة ملحمية استمرت 24 عامًا إلى آسيا. سافروا على طريق الحرير، ووصلوا إلى بلاط كوبلاي خان في الصين. خدم ماركو الإمبراطور المغولي لمدة 17 عامًا، وسافر في جميع أنحاء آسيا كمسؤول. قدم كتابه 'رحلات ماركو بولو' الأوروبيين إلى الثقافات والتقنيات والثروات الآسيوية. على الرغم من أن بعض المعاصرين شككوا في قصصه، إلا أن رواياته ألهمت المستكشفين اللاحقين بما في ذلك كريستوفر كولومبوس. فتحت رحلته التبادل الثقافي بين الشرق والغرب.",
+        "fr": "En 1271, Marco Polo, âgé de 17 ans, partit de Venise avec son père et son oncle pour un voyage épique de 24 ans en Asie. Ils parcoururent la Route de la Soie, atteignant la cour de Kubilai Khan en Chine. Marco servit l'empereur mongol pendant 17 ans, voyageant à travers l'Asie en tant qu'officiel. Son livre 'Le Livre des Merveilles' initia les Européens aux cultures, technologies et richesses asiatiques. Bien que certains contemporains aient douté de ses histoires, ses récits inspirèrent les explorateurs ultérieurs dont Christophe Colomb. Son voyage ouvrit les échanges culturels entre Orient et Occident."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "How long did Marco Polo serve Kublai Khan?",
+            "ar": "كم من الوقت خدم ماركو بولو كوبلاي خان؟",
+            "fr": "Combien de temps Marco Polo a-t-il servi Kubilai Khan ?"
+          },
+          "options": {
+            "en": ["5 years", "10 years", "17 years", "24 years"],
+            "ar": ["5 سنوات", "10 سنوات", "17 سنة", "24 سنة"],
+            "fr": ["5 ans", "10 ans", "17 ans", "24 ans"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "dday_invasion",
+      "title": {
+        "en": "D-Day: Normandy Landings",
+        "ar": "يوم النصر: إنزال نورماندي",
+        "fr": "Jour J : Débarquement de Normandie"
+      },
+      "era": {
+        "en": "World Wars",
+        "ar": "الحرب العالمية",
+        "fr": "Guerres Mondiales"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "On June 6, 1944, the largest amphibious invasion in history began as Allied forces landed on the beaches of Normandy. Operation Overlord involved 156,000 troops from the United States, Britain, and Canada. Despite heavy German resistance and challenging weather, five beachheads were established. The success of D-Day opened a second front against Nazi Germany, forcing Hitler to fight on two fronts. This marked the beginning of the end for the Third Reich. Within months, Allied forces would liberate Paris and advance toward Germany, ultimately leading to VE Day in May 1945.",
+        "ar": "في 6 يونيو 1944، بدأ أكبر غزو برمائي في التاريخ عندما هبطت قوات الحلفاء على شواطئ نورماندي. شاركت في عملية Overlord 156,000 جندي من الولايات المتحدة وبريطانيا وكندا. على الرغم من المقاومة الألمانية الشديدة والطقس الصعب، تم إنشاء خمسة رؤوس جسور. نجح يوم النصر في فتح جبهة ثانية ضد ألمانيا النازية، مما أجبر هتلر على القتال على جبهتين. markedت هذه البداية النهاية للرايخ الثالث. في غضون أشهر، حررت قوات الحلفاء باريس وتقدمت نحو ألمانيا، مما أدى في النهاية إلى يوم النصر في أوروبا في مايو 1945.",
+        "fr": "Le 6 juin 1944, le plus grand débarquement amphibie de l'histoire commença lorsque les forces alliées débarquèrent sur les plages de Normandie. L'opération Overlord impliqua 156 000 soldats des États-Unis, de la Grande-Bretagne et du Canada. Malgré une forte résistance allemande et des conditions météorologiques difficiles, cinq têtes de pont furent établies. Le succès du Jour J ouvrit un second front contre l'Allemagne nazie, forçant Hitler à combattre sur deux fronts. Cela marqua le début de la fin du Troisième Reich. En quelques mois, les forces alliées libérèrent Paris et avancèrent vers l'Allemagne, conduisant finalement au jour de la Victoire en Europe en mai 1945."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "When did the D-Day invasion occur?",
+            "ar": "متى حدث غزو يوم النصر؟",
+            "fr": "Quand le débarquement du Jour J a-t-il eu lieu ?"
+          },
+          "options": {
+            "en": ["June 6, 1944", "December 7, 1941", "August 6, 1945", "September 1, 1939"],
+            "ar": ["6 يونيو 1944", "7 ديسمبر 1941", "6 أغسطس 1945", "1 سبتمبر 1939"],
+            "fr": ["6 juin 1944", "7 décembre 1941", "6 août 1945", "1er septembre 1939"]
+          },
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "printing_press_revolution",
+      "title": {
+        "en": "Gutenberg's Printing Press",
+        "ar": "مطبعة غوتنبرغ",
+        "fr": "La Presse de Gutenberg"
+      },
+      "era": {
+        "en": "Great Inventions",
+        "ar": "اختراعات عظيمة",
+        "fr": "Grandes Inventions"
+      },
+      "category": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "Around 1440, Johannes Gutenberg revolutionized communication with his invention of the movable-type printing press in Mainz, Germany. His system used metal type that could be rearranged and reused, making book production faster and cheaper. The Gutenberg Bible, printed around 1455, became the first major book produced using this technology. The printing press enabled the rapid spread of knowledge, contributing to the Renaissance, Reformation, and Scientific Revolution. It democratized learning by making books accessible beyond the elite, fundamentally transforming European society and paving the way for modern education.",
+        "ar": "حوالي عام 1440، أحدث يوهانس غوتنبرغ ثورة في الاتصالات باختراعه المطبعة ذات الحروف المتحركة في ماينز بألمانيا. استخدم نظامه نوعًا معدنيًا يمكن إعادة ترتيبه وإعادة استخدامه، مما جعل إنتاج الكتب أسرع وأرخص. أصبحت Bible غوتنبرغ، المطبوعة حوالي عام 1455، أول كتاب رئيسي ينتج باستخدام هذه التكنولوجيا. مكنت المطبعة من الانتشار السريع للمعرفة، مما ساهم في عصر النهضة والإصلاح والثورة العلمية. ديمقراطية التعلم من خلال جعل الكتب في متناول الجميع beyond النخبة، وتحويل المجتمع الأوروبي fundamentally وتمهيد الطريق للتعليم الحديث.",
+        "fr": "Vers 1440, Johannes Gutenberg révolutionna la communication avec son invention de la presse à caractères mobiles à Mayence, en Allemagne. Son système utilisait des caractères métalliques qui pouvaient être réarrangés et réutilisés, rendant la production de livres plus rapide et moins chère. La Bible de Gutenberg, imprimée vers 1455, devint le premier livre majeur produit avec cette technologie. La presse à imprimer permit la diffusion rapide des connaissances, contribuant à la Renaissance, à la Réforme et à la Révolution scientifique. Elle démocratisa l'apprentissage en rendant les livres accessibles au-delà de l'élite, transformant fondamentalement la société européenne et ouvrant la voie à l'éducation moderne."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What was Gutenberg's first major printed work?",
+            "ar": "ما كان أول عمل مطبوع رئيسي لغوتنبرغ؟",
+            "fr": "Quelle fut la première œuvre majeure imprimée de Gutenberg ?"
+          },
+          "options": {
+            "en": ["The Divine Comedy", "Gutenberg Bible", "Don Quixote", "The Canterbury Tales"],
+            "ar": ["الكوميديا الإلهية", "Bible غوتنبرغ", "دون كيخوتي", "حكايات كانتربري"],
+            "fr": ["La Divine Comédie", "Bible de Gutenberg", "Don Quichotte", "Les Contes de Canterbury"]
+          },
           "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "machu_picchu_discovery",
+      "title": {
+        "en": "The Lost City of Machu Picchu",
+        "ar": "مدينة ماتشو بيتشو المفقودة",
+        "fr": "La Cité Perdue de Machu Picchu"
+      },
+      "era": {
+        "en": "Lost Civilizations",
+        "ar": "حضارات مفقودة",
+        "fr": "Civilisations Disparues"
+      },
+      "category": {
+        "en": "Explorations",
+        "ar": "استكشافات",
+        "fr": "Explorations"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 1911, American historian Hiram Bingham discovered Machu Picchu, the magnificent Inca citadel perched high in the Andes Mountains of Peru. Built in the 15th century under Emperor Pachacuti, the site was abandoned during the Spanish conquest and remained unknown to the outside world for centuries. The complex features sophisticated dry-stone construction without mortar, with temples, terraces, and water channels. Its purpose remains debated—possibly a royal estate or religious retreat. Today, Machu Picchu stands as a testament to Inca engineering and is one of the New Seven Wonders of the World.",
+        "ar": "في عام 1911، اكتشف المؤرخ الأمريكي هيرام بينغهام ماتشو بيتشو، القلعة الإنكا الرائعة perched في جبال الأنديز في بيرو. بُنيت في القرن الخامس عشر تحت حكم الإمبراطور باتشاكوتي، تم التخلي عن الموقع أثناء الغزو الإسباني وبقي مجهولاً للعالم الخارجي لقرون. يتميز المجمع بالبناء الحجري المتطور بدون ملاط، مع المعابد والمدرجات وقنوات المياه. لا يزال الغرض منه محل نقاش - ربما كان عقارًا ملكيًا أو ملاذًا دينيًا. اليوم، تقف ماتشو بيتشو كشهادة على هندسة الإنكا وهي واحدة من عجائب الدنيا السبع الجديدة في العالم.",
+        "fr": "En 1911, l'historien américain Hiram Bingham découvrit Machu Picchu, la magnifique citadelle inca perchée dans les Andes péruviennes. Construite au XVe siècle sous l'empereur Pachacuti, le site fut abandonné pendant la conquête espagnole et resta inconnu du monde extérieur pendant des siècles. Le complexe présente une construction sophistiquée en pierre sèche sans mortier, avec des temples, des terrasses et des canaux d'eau. Son but reste débattu—peut-être une propriété royale ou une retraite religieuse. Aujourd'hui, Machu Picchu témoigne de l'ingénierie inca et est l'une des sept nouvelles merveilles du monde."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Who discovered Machu Picchu in 1911?",
+            "ar": "من اكتشف ماتشو بيتشو في عام 1911؟",
+            "fr": "Qui a découvert Machu Picchu en 1911 ?"
+          },
+          "options": {
+            "en": ["Christopher Columbus", "Hiram Bingham", "Howard Carter", "Marco Polo"],
+            "ar": ["كريستوفر كولومبوس", "هيرام بينغهام", "هوارد كارتر", "ماركو بولو"],
+            "fr": ["Christophe Colomb", "Hiram Bingham", "Howard Carter", "Marco Polo"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "newton_gravity",
+      "title": {
+        "en": "Newton's Theory of Gravity",
+        "ar": "نظرية نيوتن للجاذبية",
+        "fr": "La Théorie de la Gravité de Newton"
+      },
+      "era": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "category": {
+        "en": "Great Inventions",
+        "ar": "اختراعات عظيمة",
+        "fr": "Grandes Inventions"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 1666, while observing an apple fall from a tree, Isaac Newton began developing his revolutionary theory of universal gravitation. He proposed that every mass attracts every other mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. Published in his Principia Mathematica in 1687, this theory explained planetary motions, tides, and the behavior of falling objects. Newton's laws dominated scientific thought for over 200 years until Einstein's theory of relativity, but they remain accurate for most practical applications.",
+        "ar": "في عام 1666، أثناء مراقبة سقوط تفاحة من شجرة، بدأ إسحاق نيوتن في تطوير نظريته الثورية عن الجاذبية العالمية. اقترح أن كل كتلة تجذب كل كتلة أخرى بقوة تتناسب مع حاصل ضرب كتلتيهما وتتناسب عكسياً مع مربع المسافة بينهما. نُشرت في كتابه Principia Mathematica في عام 1687، وشرحت هذه النظرية الحركات الكوكبية والمد والجزر وسلوك الأجسام falling. سيطرت قوانين نيوتن على الفكر العلمي لأكثر من 200 عام حتى نظرية النسبية لأينشتاين، لكنها تظل دقيقة لمعظم التطبيقات العملية.",
+        "fr": "En 1666, en observant une pomme tomber d'un arbre, Isaac Newton commença à développer sa théorie révolutionnaire de la gravitation universelle. Il proposa que chaque masse attire toute autre masse avec une force proportionnelle au produit de leurs masses et inversement proportionnelle au carré de la distance qui les sépare. Publiée dans ses Principia Mathematica en 1687, cette théorie expliquait les mouvements planétaires, les marées et le comportement des objets tombants. Les lois de Newton dominèrent la pensée scientifique pendant plus de 200 ans jusqu'à la théorie de la relativité d'Einstein, mais elles restent précises pour la plupart des applications pratiques."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What year did Newton publish his Principia Mathematica?",
+            "ar": "في أي عام نشر نيوتن كتابه Principia Mathematica؟",
+            "fr": "En quelle année Newton a-t-il publié ses Principia Mathematica ?"
+          },
+          "options": {
+            "en": ["1666", "1687", "1704", "1727"],
+            "ar": ["1666", "1687", "1704", "1727"],
+            "fr": ["1666", "1687", "1704", "1727"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "trojan_war_legend",
+      "title": {
+        "en": "The Trojan War",
+        "ar": "حرب طروادة",
+        "fr": "La Guerre de Troie"
+      },
+      "era": {
+        "en": "Lost Civilizations",
+        "ar": "حضارات مفقودة",
+        "fr": "Civilisations Disparues"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "The Trojan War, immortalized in Homer's Iliad, was a legendary conflict between the kingdoms of Troy and Mycenaean Greece around the 12th century BCE. According to myth, the war began when Trojan prince Paris abducted Helen, wife of King Menelaus of Sparta. The Greeks besieged Troy for ten years, culminating in the famous Trojan Horse stratagem. Archaeological evidence suggests Troy existed in modern Turkey and was destroyed by warfare around the traditional date. While the historical accuracy of Homer's account is debated, the story has profoundly influenced Western literature, art, and culture for millennia.",
+        "ar": "حرب طروادة، الخالدة في إلياذة هوميروس، كانت صراعًا أسطوريًا بين مملكتي طروادة واليونان الميسينية حوالي القرن الثاني عشر قبل الميلاد. وفقًا للأسطورة، بدأت الحرب عندما اختطف الأمير الطروادي باريس هيلين، زوجة الملك مينلاوس ملك سبارتا. حاصر الإغريق طروادة لمدة عشر سنوات، وتوجت باستراتيجية حصان طروادة الشهيرة. تشير الأدلة الأثرية إلى أن طروادة كانت موجودة في تركيا الحديثة ودمرت بسبب الحرب حول التاريخ التقليدي. بينما يتم مناقشة الدقة التاريخية لرواية هوميروس، فقد أثرت القصة profoundly على الأدب والفن والثقافة الغربية لآلاف السنين.",
+        "fr": "La guerre de Troie, immortalisée dans l'Iliade d'Homère, fut un conflit légendaire entre les royaumes de Troie et la Grèce mycénienne vers le XIIe siècle avant J.-C. Selon le mythe, la guerre commença lorsque le prince troyen Pâris enleva Hélène, épouse du roi Ménélas de Sparte. Les Grecs assiégèrent Troie pendant dix ans, culminant avec la célèbre stratagème du cheval de Troie. Les preuves archéologiques suggèrent que Troie existait dans la Turquie moderne et fut détruite par la guerre vers la date traditionnelle. Bien que l'exactitude historique du récit d'Homère soit débattue, l'histoire a profondément influencé la littérature, l'art et la culture occidentaux pendant des millénaires."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "How long did the Trojan War last according to legend?",
+            "ar": "كم استمرت حرب طروادة according إلى الأسطورة؟",
+            "fr": "Combien de temps la guerre de Troie a-t-elle duré selon la légende ?"
+          },
+          "options": {
+            "en": ["1 year", "10 years", "20 years", "100 years"],
+            "ar": ["1 سنة", "10 سنوات", "20 سنة", "100 سنة"],
+            "fr": ["1 an", "10 ans", "20 ans", "100 ans"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "alhazen_optics",
+      "title": {
+        "en": "Alhazen: Father of Optics",
+        "ar": "الحسن بن الهيثم: أبو البصريات",
+        "fr": "Alhazen : Père de l'Optique"
+      },
+      "era": {
+        "en": "Islamic Golden Age",
+        "ar": "العصر الذهبي الإسلامي",
+        "fr": "Âge d'Or Islamique"
+      },
+      "category": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 11th-century Cairo, Persian scientist Ibn al-Haytham (known as Alhazen) made groundbreaking contributions to optics, mathematics, and the scientific method. His Book of Optics correctly explained vision as light entering the eye rather than emanating from it. He conducted systematic experiments with lenses, mirrors, and camera obscura, establishing optics as a scientific discipline. Alhazen emphasized experimental evidence over accepted authority, pioneering the modern scientific method. His work influenced European scientists including Kepler and Galileo. Often called the 'first true scientist,' his approach transformed how knowledge was pursued and verified.",
+        "ar": "في القاهرة في القرن الحادي عشر، قدم العالم الفارسي ابن الهيثم (المعروف باسم Alhazen) مساهمات groundbreaking في البصريات والرياضيات والمنهج العلمي. شرح كتابه البصريات الرؤية بشكل صحيح على أنها ضوء يدخل العين بدلاً من أن ينبعث منها. أجرى تجارب منهجية مع العدسات والمرايا والكاميرا المظلمة، مما أسس البصريات كتخصص علمي. أكد ابن الهيثم على الأدلة التجريبية over السلطة المقبولة، ورائد المنهج العلمي الحديث. أثر عمله على العلماء الأوروبيين بما في ذلك كيبلر وغاليليو. غالبًا ما يطلق عليه 'أول عالم حقيقي'، حيث حول نهجه كيفية متابعة المعرفة والتحقق منها.",
+        "fr": "Au XIe siècle au Caire, le scientifique persan Ibn al-Haytham (connu sous le nom d'Alhazen) apporta des contributions révolutionnaires à l'optique, aux mathématiques et à la méthode scientifique. Son Livre d'optique expliqua correctement la vision comme la lumière entrant dans l'œil plutôt qu'émanant de celui-ci. Il mena des expériences systématiques avec des lentilles, des miroirs et des chambres noires, établissant l'optique comme discipline scientifique. Alhazen souligna l'évidence expérimentale sur l'autorité acceptée, pionnier de la méthode scientifique moderne. Son travail influença les scientifiques européens dont Kepler et Galilée. Souvent appelé le 'premier vrai scientifique', son approche transforma la manière dont la connaissance était poursuivie et vérifiée."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What did Alhazen correctly explain about vision?",
+            "ar": "ما الذي شرحه ابن الهيثم correctly عن الرؤية؟",
+            "fr": "Qu'est-ce qu'Alhazen a correctement expliqué sur la vision ?"
+          },
+          "options": {
+            "en": ["Eyes emit light", "Light enters the eye", "Vision is spiritual", "Color doesn't exist"],
+            "ar": ["العيون تبعث الضوء", "يدخل الضوء إلى العين", "الرؤية روحية", "اللون غير موجود"],
+            "fr": ["Les yeux émettent de la lumière", "La lumière entre dans l'œil", "La vision est spirituelle", "La couleur n'existe pas"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "great_wall_china",
+      "title": {
+        "en": "The Great Wall of China",
+        "ar": "سور الصين العظيم",
+        "fr": "La Grande Muraille de Chine"
+      },
+      "era": {
+        "en": "Lost Civilizations",
+        "ar": "حضارات مفقودة",
+        "fr": "Civilisations Disparues"
+      },
+      "category": {
+        "en": "Great Inventions",
+        "ar": "اختراعات عظيمة",
+        "fr": "Grandes Inventions"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "Construction of the Great Wall of China began over 2,000 years ago under the first Emperor Qin Shi Huang, though earlier fortifications existed. The wall was continuously expanded and rebuilt by successive dynasties, most significantly by the Ming Dynasty (1368-1644). Stretching approximately 13,000 miles, it served as a defensive barrier against northern nomadic tribes and facilitated border control, trade regulation, and immigration. Built by soldiers, peasants, and prisoners, it represents one of the most ambitious building projects in human history. Today, it symbolizes Chinese civilization and is a UNESCO World Heritage site.",
+        "ar": "بدأ بناء سور الصين العظيم منذ أكثر من 2000 عام تحت حكم الإمبراطور الأول تشين شي هوانغ، على الرغم من وجود التحصينات السابقة. تم توسيع السور وإعادة بنائه باستمرار من قبل السلالات المتعاقبة، ولا سيما سلالة مينغ (1368-1644). يمتد حوالي 13000 ميل، serving كحاجز دفاعي ضد القبائل البدوية الشمالية وسهل مراقبة الحدود وتنظيم التجارة والهجرة. بناه الجنود والفلاحون والسجناء، وهو يمثل أحد أكثر مشاريع البuilding طموحًا في تاريخ البشرية. اليوم، يرمز إلى الحضارة الصينية وهو موقع تراث عالمي لليونسكو.",
+        "fr": "La construction de la Grande Muraille de Chine commença il y a plus de 2 000 ans sous le premier empereur Qin Shi Huang, bien que des fortifications antérieures existaient. La muraille fut continuellement agrandie et reconstruite par les dynasties successives, plus significativement par la dynastie Ming (1368-1644). S'étendant sur environ 13 000 miles, elle servit de barrière défensive contre les tribus nomades du nord et facilita le contrôle frontalier, la régulation du commerce et l'immigration. Construite par des soldats, des paysans et des prisonniers, elle représente l'un des projets de construction les plus ambitieux de l'histoire humaine. Aujourd'hui, elle symbolise la civilisation chinoise et est un site du patrimoine mondial de l'UNESCO."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Which dynasty significantly expanded the Great Wall?",
+            "ar": "أي سلالة وسعت سور الصين العظيم significantly؟",
+            "fr": "Quelle dynastie a considérablement agrandi la Grande Muraille ?"
+          },
+          "options": {
+            "en": ["Qin Dynasty", "Han Dynasty", "Ming Dynasty", "Qing Dynasty"],
+            "ar": ["سلالة تشين", "سلالة هان", "سلالة مينغ", "سلالة تشينغ"],
+            "fr": ["Dynastie Qin", "Dynastie Han", "Dynastie Ming", "Dynastie Qing"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "christopher_columbus",
+      "title": {
+        "en": "Columbus Discovers America",
+        "ar": "كولومبوس يكتشف أمريكا",
+        "fr": "Christophe Colomb Découvre l'Amérique"
+      },
+      "era": {
+        "en": "Explorations",
+        "ar": "استكشافات",
+        "fr": "Explorations"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 1492, Christopher Columbus, an Italian explorer sailing for Spain, made his first transatlantic voyage seeking a western route to Asia. With three ships—the Niña, Pinta, and Santa María—he landed in the Bahamas, believing he had reached the East Indies. His voyage initiated lasting contact between Europe and the Americas, beginning the Columbian Exchange of plants, animals, culture, and diseases that transformed both worlds. While he never reached mainland North America and died believing he had found Asia, his voyages opened the way for European colonization of the New World, with profound consequences for indigenous populations.",
+        "ar": "في عام 1492، قام كريستوفر كولومبوس، مستكشف إيطالي يبحر لإسبانيا، بأول رحلة transatlantic له بحثًا عن طريق غربي إلى آسيا. بثلاث سفن - نينيا، بينتا، وسانتا ماريا - هبط في جزر البهاما، معتقدًا أنه وصل إلى جزر الهند الشرقية. بدأت رحلته اتصالاً دائمًا بين أوروبا والأمريكتين، مما بدأ التبادل الكولومبي للنباتات والحيوانات والثقافة والأمراض التي حولت كلا العالمين. بينما لم يصل أبدًا إلى أمريكا الشمالية البر الرئيسية ومات معتقدًا أنه وجد آسيا، فتحت رحلاته الطريق للاستعمار الأوروبي للعالم الجديد، مع عواقب profound للسكان الأصليين.",
+        "fr": "En 1492, Christophe Colomb, un explorateur italien naviguant pour l'Espagne, effectua sa première traversée transatlantique cherchant une route occidentale vers l'Asie. Avec trois navires—la Niña, la Pinta et la Santa María—il débarqua aux Bahamas, croyant avoir atteint les Indes orientales. Son voyage initia un contact durable entre l'Europe et les Amériques, commençant l'échange colombien de plantes, d'animaux, de culture et de maladies qui transforma les deux mondes. Bien qu'il n'ait jamais atteint l'Amérique du Nord continentale et soit mort en croyant avoir trouvé l'Asie, ses voyages ouvrirent la voie à la colonisation européenne du Nouveau Monde, avec des conséquences profondes pour les populations indigènes."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Where did Columbus first land in the Americas?",
+            "ar": "أين هبط كولومبوس first في الأمريكتين؟",
+            "fr": "Où Colomb a-t-il d'abord débarqué en Amérique ?"
+          },
+          "options": {
+            "en": ["Florida", "Bahamas", "Mexico", "Brazil"],
+            "ar": ["فلوريدا", "جزر البهاما", "المكسيك", "البرازيل"],
+            "fr": ["Floride", "Bahamas", "Mexique", "Brésil"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "industrial_revolution_steam",
+      "title": {
+        "en": "The Steam Engine Revolution",
+        "ar": "ثورة المحرك البخاري",
+        "fr": "La Révolution de la Machine à Vapeur"
+      },
+      "era": {
+        "en": "Great Inventions",
+        "ar": "اختراعات عظيمة",
+        "fr": "Grandes Inventions"
+      },
+      "category": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "James Watt's improved steam engine in the late 18th century powered the Industrial Revolution. While Thomas Newcomen invented the first practical steam engine for pumping water, Watt's separate condenser (1765) dramatically increased efficiency. His partnership with Matthew Boulton made steam power commercially viable. Steam engines revolutionized transportation (railroads, steamships) and manufacturing (textile mills, factories), enabling mass production and transforming societies from agrarian to industrial. The technology spread globally, creating unprecedented economic growth but also social challenges including urbanization, pollution, and labor issues. The steam engine remains one of history's most transformative inventions.",
+        "ar": "محرك جيمس وات البخاري المحسن في أواخر القرن الثامن عشر powered الثورة الصناعية. بينما اخترع توماس نيوكومين أول محرك بخاري عملي لضخ المياه، زاد مكثف وات المنفصل (1765) الكفاءة dramatically. جعل شراكته مع ماثيو بولتون الطاقة البخارية قابلة للتطبيق تجاريًا. أحدثت المحركات البخارية ثورة في النقل (السكك الحديدية، السفن البخارية) والتصنيع (مصانع النسيج، المصانع)، مما مكن الإنتاج الضخم وتحويل المجتمعات من الزراعة إلى الصناعة. انتشرت التكنولوجيا globally، مما خلق نموًا اقتصاديًا غير مسبوق ولكن أيضًا تحديات اجتماعية including التحضر والتلوث وقضايا العمل. يظل المحرك البخاري one من أكثر الاختراعات تحويلاً في التاريخ.",
+        "fr": "La machine à vapeur améliorée de James Watt à la fin du XVIIIe siècle alimenta la Révolution industrielle. Alors que Thomas Newcomen inventa la première machine à vapeur pratique pour pomper l'eau, le condenseur séparé de Watt (1765) augmenta considérablement l'efficacité. Son partenariat avec Matthew Boulton rendit l'énergie vapeur commercialement viable. Les machines à vapeur révolutionnèrent les transports (chemins de fer, bateaux à vapeur) et la fabrication (usines textiles, usines), permettant la production de masse et transformant les sociétés d'agraires en industrielles. La technologie se répandit mondialement, créant une croissance économique sans précédent mais aussi des défis sociaux incluant l'urbanisation, la pollution et les problèmes de travail. La machine à vapeur reste l'une des inventions les plus transformatrices de l'histoire."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Who significantly improved the steam engine's efficiency?",
+            "ar": "من حسن كفاءة المحرك البخاري significantly؟",
+            "fr": "Qui a considérablement amélioré l'efficacité de la machine à vapeur ?"
+          },
+          "options": {
+            "en": ["Thomas Newcomen", "James Watt", "Matthew Boulton", "Richard Trevithick"],
+            "ar": ["توماس نيوكومين", "جيمس وات", "ماثيو بولتون", "ريتشارد تريفيثيك"],
+            "fr": ["Thomas Newcomen", "James Watt", "Matthew Boulton", "Richard Trevithick"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "hammurabi_code",
+      "title": {
+        "en": "Hammurabi's Code",
+        "ar": "قانون حمورابي",
+        "fr": "Le Code d'Hammurabi"
+      },
+      "era": {
+        "en": "Ancient Egypt",
+        "ar": "مصر القديمة",
+        "fr": "Égypte Ancienne"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "Around 1754 BCE, Babylonian King Hammurabi established one of the earliest and most complete written legal codes. Inscribed on a towering stone stele, the Code of Hammurabi contained 282 laws addressing commerce, property, family, and personal injury. The principle of 'an eye for an eye' represented proportional justice, though punishments varied by social class. The code established the presumption of innocence and the responsibility of the state to punish criminals. Discovered in 1901, it provides invaluable insight into ancient Mesopotamian society and represents a foundational moment in the development of legal systems worldwide.",
+        "ar": "حوالي عام 1754 قبل الميلاد، أسس الملك البابلي حمورابي one من أقدم وأكمل القوانين المكتوبة. منقوش على نصب حجري towering، احتوى قانون حمورابي على 282 قانونًا addressing التجارة والممتلكات والأسرة والإصابة الشخصية. مثل مبدأ 'العين بالعين' العدالة التناسبية، على الرغم من أن العقوبات اختلفت according إلى الطبقة الاجتماعية. أنشأ القانون افتراض البراءة ومسؤولية الدولة في معاقبة المجرمين. تم اكتشافه في عام 1901، ويوفر نظرة لا تقدر بث into into المجتمع Mesopotamian القديم ويمثل لحظة foundational في تطور النظم القانونية worldwide.",
+        "fr": "Vers 1754 avant J.-C., le roi babylonien Hammurabi établit l'un des codes juridiques écrits les plus anciens et les plus complets. Inscrit sur une stèle de pierre imposante, le Code d'Hammurabi contenait 282 lois traitant du commerce, de la propriété, de la famille et des blessures personnelles. Le principe de 'œil pour œil' représentait la justice proportionnelle, bien que les punitions variaient selon la classe sociale. Le code établit la présomption d'innocence et la responsabilité de l'État à punir les criminels. Découvert en 1901, il fournit un aperçu inestimable de la société mésopotamienne antique et représente un moment fondateur dans le développement des systèmes juridiques mondiaux."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What principle represented proportional justice in Hammurabi's Code?",
+            "ar": "ما المبدأ الذي مثل العدالة التناسبية في قانون حمورابي؟",
+            "fr": "Quel principe représentait la justice proportionnelle dans le Code d'Hammurabi ?"
+          },
+          "options": {
+            "en": ["Innocent until proven guilty", "Might makes right", "An eye for an eye", "Royal decree is law"],
+            "ar": ["البراءة حتى تثبت الإدانة", "القوة تصنع الحق", "العين بالعين", "المرسوم الملكي هو القانون"],
+            "fr": ["Innocent jusqu'à preuve du contraire", "La force fait le droit", "Œil pour œil", "Le décret royal est la loi"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "alexander_great_conquest",
+      "title": {
+        "en": "Alexander the Great's Conquests",
+        "ar": "فتوحات الإسكندر الأكبر",
+        "fr": "Les Conquêtes d'Alexandre le Grand"
+      },
+      "era": {
+        "en": "Ancient Rome",
+        "ar": "روما القديمة",
+        "fr": "Rome Antique"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "From 336 to 323 BCE, Alexander the Great created one of the largest empires in ancient history, stretching from Greece to northwestern India. Tutored by Aristotle, he succeeded his father Philip II of Macedon and began a remarkable military campaign. He defeated the Persian Empire, conquered Egypt where he founded Alexandria, and reached the Indus Valley. His tactics at battles like Issus and Gaugamela are still studied. Alexander's empire didn't survive his early death at 32, but his conquests spread Greek culture throughout the known world, creating the Hellenistic Age that blended Greek and Eastern traditions.",
+        "ar": "من 336 إلى 323 قبل الميلاد، خلق الإسكندر الأكبر one من أكبر الإمبراطوريات في التاريخ القديم، تمتد من اليونان إلى شمال غرب الهند. تم تدريسه من قبل أرسطو، خلف والده فيليب الثاني المقدوني وبدأ حملة عسكرية remarkable. هزم الإمبراطورية الفارسية، وغزا مصر حيث أسس الإسكندرية، ووصل إلى وادي السند. لا تزال تكتيكاته في معارك مثل إيسوس وجوجاميلا تُدرس. لم تنجو إمبراطورية الإسكندر من موته المبكر في 32، لكن فتوحاته نشرت الثقافة اليونانية في جميع أنحاء العالم المعروف، مما خلق العصر الهلنستي الذي مزج التقاليد اليونانية والشرقية.",
+        "fr": "De 336 à 323 avant J.-C., Alexandre le Grand créa l'un des plus grands empires de l'histoire antique, s'étendant de la Grèce au nord-ouest de l'Inde. Éduqué par Aristote, il succéda à son père Philippe II de Macédoine et commença une remarquable campagne militaire. Il vainquit l'Empire perse, conquit l'Égypte où il fonda Alexandrie, et atteignit la vallée de l'Indus. Ses tactiques aux batailles comme Issus et Gaugamèles sont encore étudiées. L'empire d'Alexandre ne survécut pas à sa mort précoce à 32 ans, mais ses conquêtes répandirent la culture grecque dans tout le monde connu, créant l'âge hellénistique qui mélangea les traditions grecques et orientales."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "How far east did Alexander's empire extend?",
+            "ar": "إلى أي مدى امتدت إمبراطورية الإسكندر east؟",
+            "fr": "Jusqu'où l'empire d'Alexandre s'étendit-il vers l'est ?"
+          },
+          "options": {
+            "en": ["Egypt", "Persia", "China", "Northwestern India"],
+            "ar": ["مصر", "بلاد فارس", "الصين", "شمال غرب الهند"],
+            "fr": ["Égypte", "Perse", "Chine", "Nord-ouest de l'Inde"]
+          },
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "id": "black_death_europe",
+      "title": {
+        "en": "The Black Death",
+        "ar": "الموت الأسود",
+        "fr": "La Peste Noire"
+      },
+      "era": {
+        "en": "Middle Ages",
+        "ar": "العصور الوسطى",
+        "fr": "Moyen Âge"
+      },
+      "category": {
+        "en": "Lost Civilizations",
+        "ar": "حضارات مفقودة",
+        "fr": "Civilisations Disparues"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "Between 1347-1351, the Black Death killed an estimated 75-200 million people in Europe, Asia, and Africa—30-60% of Europe's population. Carried by fleas on rats, the bubonic plague spread along trade routes from Central Asia. Symptoms included swollen lymph nodes (buboes), fever, and death within days. The catastrophe devastated economies, disrupted social structures, and inspired religious extremism and persecution of minorities. Labor shortages eventually improved workers' conditions, contributing to the end of serfdom. The pandemic reshaped medieval society and had lasting effects on art, religion, and European development for centuries.",
+        "ar": "بين 1347-1351، قتل الموت الأسود ما يقدر بنحو 75-200 مليون شخص في أوروبا وآسيا وأفريقيا - 30-60٪ من سكان أوروبا. حملت البراغيث على الفئران الطاعون الدبلي الذي انتشر على طول طرق التجارة من آسيا الوسطى. شملت الأعراض تورم الغدد الليمفاوية (الدبلات) والحمى والموت في غضون أيام. دمرت الكارثة الاقتصادات، وعطلت الهياكل الاجتماعية، وألهمت التطرف الديني واضطهاد الأقليات. أدى نقص العمالة في النهاية إلى تحسين ظروف العمال، مما ساهم في نهاية القنانة. أعاد الوباء تشكيل المجتمع medieval وكان له effects مستدامة على الفن والدين والتنمية الأوروبية لقرون.",
+        "fr": "Entre 1347-1351, la Peste Noire tua environ 75-200 millions de personnes en Europe, Asie et Afrique—30-60% de la population européenne. Transportée par les puces sur les rats, la peste bubonique se propagea le long des routes commerciales d'Asie centrale. Les symptômes incluaient des ganglions lymphatiques enflés (bubons), de la fièvre et la mort en quelques jours. La catastrophe dévasta les économies, perturba les structures sociales et inspira l'extrémisme religieux et la persécution des minorités. Les pénuries de main-d'œuvre améliorèrent finalement les conditions des travailleurs, contribuant à la fin du servage. La pandémie remodela la société médiévale et eut des effets durables sur l'art, la religion et le développement européen pendant des siècles."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What percentage of Europe's population died from the Black Death?",
+            "ar": "ما نسبة سكان أوروبا الذين ماتوا بسبب الموت الأسود؟",
+            "fr": "Quel pourcentage de la population européenne est mort de la Peste Noire ?"
+          },
+          "options": {
+            "en": ["10-20%", "30-60%", "70-80%", "Over 90%"],
+            "ar": ["10-20٪", "30-60٪", "70-80٪", "أكثر من 90٪"],
+            "fr": ["10-20%", "30-60%", "70-80%", "Plus de 90%"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "magna_carta_liberty",
+      "title": {
+        "en": "Magna Carta: Foundation of Liberty",
+        "ar": "الماغنا كارتا: أساس الحرية",
+        "fr": "Magna Carta : Fondement de la Liberté"
+      },
+      "era": {
+        "en": "Middle Ages",
+        "ar": "العصور الوسطى",
+        "fr": "Moyen Âge"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "In 1215, English nobles forced King John to sign the Magna Carta, establishing that the king was not above the law. The 'Great Charter' protected feudal rights, limited royal authority, and guaranteed certain legal procedures. Though initially a peace treaty between the king and rebellious barons, its principles evolved into foundational concepts of constitutional law. The document established that no free man could be punished except through the law of the land—a precursor to due process. Though most clauses were later repealed, Magna Carta's legacy influenced the development of common law and inspired documents like the U.S. Constitution.",
+        "ar": "في عام 1215، أجبر النبلاء الإنجليز الملك جون على التوقيع على الماغنا كارتا، مما established أن الملك ليس فوق القانون. protected 'الميثاق العظيم' الحقوق الإقطاعية، وحد من السلطة الملكية، وضمن إجراءات قانونية معينة. على الرغم من أنها كانت في البداية معاهدة سلام between الملك والنبلاء المتمردين، تطورت مبادئها إلى مفاهيم foundational للقانون الدستوري. أنشأ الوثيقة أنه لا يمكن معاقبة أي رجل حر إلا من خلال قانون الأرض - وهو مقدمة للإجراءات القانونية الواجبة. على الرغم من إلغاء معظم البنود لاحقًا، أثر إرث الماغنا كارتا على تطور القانون العام وألهم وثائق مثل الدستور الأمريكي.",
+        "fr": "En 1215, les nobles anglais forcèrent le roi Jean à signer la Magna Carta, établissant que le roi n'était pas au-dessus de la loi. La 'Grande Charte' protégea les droits féodaux, limita l'autorité royale et garantit certaines procédures légales. Bien qu'initialement un traité de paix entre le roi et les barons rebelles, ses principes évoluèrent en concepts fondateurs du droit constitutionnel. Le document établit qu'aucun homme libre ne pouvait être puni sauf par la loi du pays—un précurseur de la procédure régulière. Bien que la plupart des clauses furent ensuite abrogées, l'héritage de la Magna Carta influença le développement de la common law et inspira des documents comme la Constitution américaine."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What fundamental principle did Magna Carta establish?",
+            "ar": "ما المبدأ الأساسي الذي establishedته الماغنا كارتا؟",
+            "fr": "Quel principe fondamental la Magna Carta a-t-elle établi ?"
+          },
+          "options": {
+            "en": ["Divine right of kings", "King above the law", "King not above the law", "Absolute monarchy"],
+            "ar": ["الحق الإلهي للملوك", "الملك فوق القانون", "الملك ليس فوق القانون", "الملكية المطلقة"],
+            "fr": ["Droit divin des rois", "Roi au-dessus de la loi", "Roi pas au-dessus de la loi", "Monarchie absolue"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "american_revolution_independence",
+      "title": {
+        "en": "The American Revolution",
+        "ar": "الثورة الأمريكية",
+        "fr": "La Révolution Américaine"
+      },
+      "era": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "category": {
+        "en": "World Wars",
+        "ar": "الحرب العالمية",
+        "fr": "Guerres Mondiales"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "The American Revolution (1775-1783) began as a rebellion of thirteen British colonies in North America against British rule. Inspired by Enlightenment ideals of liberty and self-government, colonists protested taxation without representation. The Declaration of Independence in 1776, primarily written by Thomas Jefferson, articulated these principles. General George Washington led the Continental Army through difficult years, with key victories at Saratoga and Yorktown. French assistance proved crucial to American success. The revolution established the United States of America, created the U.S. Constitution, and inspired similar movements worldwide, becoming a landmark in the history of democracy.",
+        "ar": "بدأت الثورة الأمريكية (1775-1783) كتمرد من ثلاثة عشر مستعمرة بريطانية في أمريكا الشمالية ضد الحكم البريطاني. مستوحاة من مثلالتنوير للحرية والحكم الذاتي، احتج المستعمرون على الضرائب without تمثيل. عبر إعلان الاستقلال في عام 1776، الذي كتبه primarily توماس جيفرسون، عن هذه المبادئ. قاد الجنرال جورج واشنطن الجيش القاري خلال سنوات صعبة، مع انتصارات رئيسية في ساراتوجا ويوركتاون. أثبتت المساعدة الفرنسية أنها crucial للنجاح الأمريكي. أنشأت الثورة الولايات المتحدة الأمريكية، وأنشأت الدستور الأمريكي، وألهمت حركات مماثلة worldwide، لتصبح معلمًا في تاريخ الديمقراطية.",
+        "fr": "La Révolution américaine (1775-1783) commença comme une rébellion de treize colonies britanniques en Amérique du Nord contre la domination britannique. Inspirés par les idéaux des Lumières de liberté et d'autonomie, les colons protestèrent contre la taxation sans représentation. La Déclaration d'Indépendance en 1776, principalement écrite par Thomas Jefferson, articula ces principes. Le général George Washington mena l'Armée continentale à travers des années difficiles, avec des victoires clés à Saratoga et Yorktown. L'assistance française s'avéra cruciale pour le succès américain. La révolution établit les États-Unis d'Amérique, créa la Constitution américaine et inspira des mouvements similaires dans le monde, devenant une pierre angulaire dans l'histoire de la démocratie."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Who primarily wrote the Declaration of Independence?",
+            "ar": "من كتب primarily إعلان الاستقلال؟",
+            "fr": "Qui a principalement rédigé la Déclaration d'Indépendance ?"
+          },
+          "options": {
+            "en": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
+            "ar": ["جورج واشنطن", "بنجامين فرانكلين", "توماس جيفرسون", "جون آدامز"],
+            "fr": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"]
+          },
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "crusades_holy_land",
+      "title": {
+        "en": "The Crusades",
+        "ar": "الحملات الصليبية",
+        "fr": "Les Croisades"
+      },
+      "era": {
+        "en": "Middle Ages",
+        "ar": "العصور الوسطى",
+        "fr": "Moyen Âge"
+      },
+      "category": {
+        "en": "Historical Leaders",
+        "ar": "قادة تاريخيون",
+        "fr": "Dirigeants Historiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "The Crusades (1095-1291) were a series of religious wars between Christians and Muslims for control of the Holy Land. Initiated by Pope Urban II's call to aid Byzantine Christians against Muslim expansion, the First Crusade captured Jerusalem in 1099, establishing Crusader states. Subsequent crusades saw varying success, including Saladin's recapture of Jerusalem in 1187. The Crusades increased trade and cultural exchange between Europe and the Middle East but also created lasting religious hostility. They strengthened papal authority, stimulated European economy, and exposed Europeans to advanced Islamic knowledge in science, medicine, and mathematics.",
+        "ar": "كانت الحملات الصليبية (1095-1291) سلسلة من الحروب الدينية between المسيحيين والمسلمين للسيطرة على الأرض المقدسة. بدأت بدعوة البابا أوربان الثاني لمساعدة المسيحيين البيزنطيين against التوسع الإسلامي، capturedت الحملة الصليبية الأولى القدس في 1099، establishing دول صليبية. شهدت الحملات الصليبية اللاحقة نجاحًا متفاوتًا، including استعادة صلاح الدين للقدس في 1187. زادت الحملات الصليبية من التجارة والتبادل الثقافي between أوروبا والشرق الأوسط ولكنها خلقت أيضًا عداءً دينيًا دائمًا. عززت السلطة البابوية، حفزت الاقتصاد الأوروبي، وعرضت الأوروبيين للمعرفة الإسلامية المتقدمة في العلوم والطب والرياضيات.",
+        "fr": "Les Croisades (1095-1291) furent une série de guerres religieuses entre chrétiens et musulmans pour le contrôle de la Terre Sainte. Initiées par l'appel du pape Urbain II à aider les chrétiens byzantins contre l'expansion musulmane, la Première Croisade captura Jérusalem en 1099, établissant des États croisés. Les croisades ultérieures connurent des succès variables, incluant la reconquête de Jérusalem par Saladin en 1187. Les Croisades augmentèrent le commerce et les échanges culturels entre l'Europe et le Moyen-Orient mais créèrent aussi une hostilité religieuse durable. Elles renforcèrent l'autorité papale, stimulèrent l'économie européenne et exposèrent les Européens aux connaissances islamiques avancées en science, médecine et mathématiques."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "What city was the primary focus of the Crusades?",
+            "ar": "ما المدينة التي كانت المحور primary للحملات الصليبية؟",
+            "fr": "Quelle ville était le principal objectif des Croisades ?"
+          },
+          "options": {
+            "en": ["Constantinople", "Jerusalem", "Rome", "Mecca"],
+            "ar": ["القسطنطينية", "القدس", "روما", "مكة"],
+            "fr": ["Constantinople", "Jérusalem", "Rome", "La Mecque"]
+          },
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "renaissance_rebirth",
+      "title": {
+        "en": "The Renaissance",
+        "ar": "عصر النهضة",
+        "fr": "La Renaissance"
+      },
+      "era": {
+        "en": "Middle Ages",
+        "ar": "العصور الوسطى",
+        "fr": "Moyen Âge"
+      },
+      "category": {
+        "en": "Scientific Discoveries",
+        "ar": "اكتشافات علمية",
+        "fr": "Découvertes Scientifiques"
+      },
+      "image": null,
+      "readingMinutes": 2,
+      "body": {
+        "en": "Beginning in 14th-century Italy, the Renaissance marked a cultural 'rebirth' after the Middle Ages. Inspired by classical antiquity, it emphasized humanism, individualism, and secular themes alongside religious subjects. Florence became the epicenter with patrons like the Medici family supporting artists including Leonardo da Vinci, Michelangelo, and Raphael. The invention of the printing press spread new ideas rapidly. Renaissance thinkers made advances in science, architecture, and literature while explorers discovered new lands. This period transitioned Europe from medieval to modern times, emphasizing human potential and laying foundations for the Scientific Revolution and Enlightenment.",
+        "ar": "ابتداءً من إيطاليا في القرن الرابع عشر، markedت النهضة 'ولادة جديدة' ثقافية after العصور الوسطى. مستوحاة من العصور القديمة الكلاسيكية، أكدت على الإنسانية والفردية والموضوعات العلمية alongside المواضيع الدينية. أصبحت فلورنسا المركز with رعاة like عائلة ميديشي يدعمون فنانين including ليوناردو دا فينشي، ميكيلانجيلو، ورافائيل. نشر اختراع المطبعة أفكارًا جديدة rapidly. حقق مفكرو عصر النهضة تقدمًا في العلوم والعمارة والأدب بينما اكتشف المستكشفون أراضٍ جديدة. انتقلت هذه الفترة أوروبا من العصور medieval إلى العصور الحديثة، مؤكدة على الإمكانات البشرية ووضعت أسس الثورة العلمية والتنوير.",
+        "fr": "Commencant en Italie au XIVe siècle, la Renaissance marqua une 'renaissance' culturelle après le Moyen Âge. Inspirée par l'antiquité classique, elle emphasisa l'humanisme, l'individualisme et les thèmes séculaires aux côtés des sujets religieux. Florence devint l'épicentre avec des mécènes comme la famille Médicis soutenant des artistes incluant Léonard de Vinci, Michel-Ange et Raphaël. L'invention de l'imprimerie diffusa rapidement les nouvelles idées. Les penseurs de la Renaissance firent des progrès en science, architecture et littérature tandis que les explorateurs découvrirent de nouvelles terres. Cette période transitionna l'Europe des temps médiévaux aux temps modernes, soulignant le potentiel humain et posant les fondations de la Révolution scientifique et des Lumières."
+      },
+      "quiz": [
+        {
+          "question": {
+            "en": "Which Italian city was the epicenter of the Renaissance?",
+            "ar": "أي مدينة إيطالية كانت مركز النهضة؟",
+            "fr": "Quelle ville italienne fut l'épicentre de la Renaissance ?"
+          },
+          "options": {
+            "en": ["Rome", "Venice", "Florence", "Milan"],
+            "ar": ["روما", "البندقية", "فلورنسا", "ميلانو"],
+            "fr": ["Rome", "Venise", "Florence", "Milan"]
+          },
+          "correctIndex": 2
         }
       ]
     }
