@@ -1,0 +1,24 @@
+{
+  "stories": [
+    {
+      "id": "caesar_rubicon",
+      "title": "The Decision That Ended an Empire",
+      "era": "Ancient Rome",
+      "category": "Military History",
+      "image": null,
+      "readingMinutes": 2,
+      "body": "On January 10, 49 BC, Julius Caesar stood at the banks...",
+      "quiz": [
+        {
+          "question": "What was the significance of crossing the Rubicon River?",
+          "options": [
+            "It was a sacred religious boundary",
+            "It was forbidden for generals to cross with an army",
+            "It marked the border with Gaul"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}
